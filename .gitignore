@@ -1,3 +1,18 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Build output
+/dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
 # Logs
 logs
 *.log
@@ -128,3 +143,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Game assets
+/assets/Generated/
+*.unity
+*.pdb
+*.swp
+*.bak
+
+# Temporary files
+*.log
+*.tmp
