@@ -1,4 +1,3 @@
-
 # 🏆 Outlaw Burner Game - GitHub Roadmap
 
 Welcome to the official **Outlaw Burner** game development repository! This roadmap outlines the **milestones, features, and development process** to ensure a structured workflow.
@@ -17,6 +16,13 @@ Welcome to the official **Outlaw Burner** game development repository! This road
  ├── README.md               # Project overview
  ├── CONTRIBUTING.md         # Guidelines for contributors
  ├── LICENSE                 # Licensing information
+ ├── /guides                 # Development guides for each feature
+ │   ├── setup-guide.md       # Initial setup and dependencies
+ │   ├── multiplayer-guide.md # Building multiplayer functionality
+ │   ├── ai-guide.md          # Implementing AI-driven features
+ │   ├── modding-guide.md     # Modding and customization
+ │   ├── economy-guide.md     # AI-powered dynamic economy
+ │   ├── combat-guide.md      # Combat mechanics and physics
 ```
 
 ## 🌍 Development Roadmap
